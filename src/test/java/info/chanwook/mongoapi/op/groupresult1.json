@@ -1,0 +1,1 @@
+{ "serverUsed" : "localhost:27017" , "retval" : [ { "x" : 1.0 , "count" : 2.0} , { "x" : 2.0 , "count" : 3.0} , { "x" : 3.0 , "count" : 3.0}] , "count" : 8.0 , "keys" : 3 , "ok" : 1.0}
